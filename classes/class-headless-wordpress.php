@@ -83,7 +83,6 @@ final class Headless_WordPress {
 			}
 		}
 	}
-
 		/**
 		 * Get class object instance
 		 *
