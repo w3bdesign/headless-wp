@@ -3,7 +3,7 @@
 Plugin Name:  Headless WordPress
 Plugin URI:
 Description:  Disable the WordPress frontend. Useful for sites only using the WordPress API.
-Version:      1.0.21
+Version:      1.0.22
 Author:       Daniel
 Author URI:   http://www.dfweb.no
 License:      GPL3
