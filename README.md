@@ -1,4 +1,4 @@
-# Headless WP
+# Headless WP (WordPress)
 
 A lightweight plugin to disable the WordPress frontend experience.
 
